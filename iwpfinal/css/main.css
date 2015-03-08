@@ -1,0 +1,33 @@
+html, body {
+    background-color: #E9E9E9;
+    padding-top: 50px;
+    height: 100%;
+}
+
+.navbar {
+    background-color: #234;  
+}
+
+.jumbotron {
+    background-color: #BCBCBC;
+}
+
+#htmlJumbo {
+    padding: 0;
+}
+
+span {
+    color: #E9E9E9;
+}
+
+.navbar-fixed-bottom {
+    margin-top: 100px;
+}
+
+link:visited {
+    text-decoration: none;
+}
+
+#wikiMiddle {
+    padding-bottom: 50px;
+}
